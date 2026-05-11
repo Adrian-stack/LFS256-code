@@ -45,4 +45,3 @@ spec:
       name: another
       targetPort: 6650
   type: LoadBalancer
-
